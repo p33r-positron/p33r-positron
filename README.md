@@ -1,5 +1,5 @@
 - 👋 Coucou, je suis Positron.
 - 👀 Je suis passionné par l'informatique et la programmation.
 - 🌱 J'essaye d'apprendre le plus de langages possible.
-- 💞️ Je veux créer mon propre OS avec rien, comme Terry A. Devis.
+- 💞️ Je veux créer mon propre OS à partir de rien, comme Terry A. Devis.
 - 📫 C'est tout.
